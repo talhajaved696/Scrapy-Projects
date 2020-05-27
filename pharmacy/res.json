@@ -1,0 +1,510 @@
+{
+    "status": 1,
+    "data": {
+        "products": [{
+            "productId": 106054,
+            "name": "2baconil - 14mg Nicotine Patch For Quit Smoking/tobacco - Step 2",
+            "slug": "2baconil---14mg-nicotine-patch-for-quit-smoking-tobacco---step-2-106054",
+            "manufacturer": "2BACONIL",
+            "productType": 2,
+            "mrpDecimal": "665.00",
+            "salePriceDecimal": "631.75",
+            "discountDecimal": "33.25",
+            "discountPercent": "5",
+            "categoryId": 97,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Rusan%20Healthcare/resized/small/2baconilpackshot14.jpg"]
+        }, {
+            "productId": 23688,
+            "name": "2baconil - 21mg Nicotine Patch For Quit Smoking/tobacco - Step 1",
+            "slug": "2baconil---21mg-nicotine-patch-for-quit-smoking-tobacco---step-1-23688",
+            "manufacturer": "2BACONIL",
+            "productType": 2,
+            "mrpDecimal": "840.00",
+            "salePriceDecimal": "798.00",
+            "discountDecimal": "42.00",
+            "discountPercent": "5",
+            "categoryId": 97,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Rusan%20Healthcare/resized/small/2baconilpackshot21.jpg"]
+        }, {
+            "productId": 106053,
+            "name": "2baconil - 7mg Nicotine Patch For Quit Smoking/tobacco - Step 3",
+            "slug": "2baconil---7mg-nicotine-patch-for-quit-smoking-tobacco---step-3-106053",
+            "manufacturer": "2BACONIL",
+            "productType": 2,
+            "mrpDecimal": "595.00",
+            "salePriceDecimal": "595.00",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 97,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Rusan%20Healthcare/resized/small/2baconilpackshot7.jpg"]
+        }, {
+            "productId": 232694,
+            "name": "Abzorb Antifungal Soap 100gm",
+            "slug": "abzorb-antifungal-soap-100gm-232694",
+            "manufacturer": "ABZORB",
+            "productType": 2,
+            "mrpDecimal": "131.75",
+            "salePriceDecimal": "131.75",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 195,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true
+        }, {
+            "productId": 181349,
+            "name": "Acnelak 4 In 1 Face Wash 100ml",
+            "slug": "acnelak-4-in-1-face-wash-100ml-181349",
+            "manufacturer": "ACNELAK",
+            "productType": 2,
+            "mrpDecimal": "250.00",
+            "salePriceDecimal": "250.00",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 99,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true
+        }, {
+            "productId": 23379,
+            "name": "Acteen Face Wash 70gm",
+            "slug": "acteen-face-wash-70gm-23379",
+            "manufacturer": "ACTEEN",
+            "productType": 2,
+            "mrpDecimal": "198.00",
+            "salePriceDecimal": "198.00",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 99,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true
+        }, {
+            "productId": 3441743,
+            "name": "Akiva Superfoods Ashwagandha Root Powder- 100 Gm - Vegan Supplement",
+            "slug": "akiva-superfoods-ashwagandha-root-powder--100-gm---vegan-supplement-3441743",
+            "manufacturer": "Akiva Superfoods",
+            "productType": 2,
+            "mrpDecimal": "249.00",
+            "salePriceDecimal": "239.04",
+            "discountDecimal": "9.96",
+            "discountPercent": "4",
+            "categoryId": 97,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Akiva%20Superfoods/resized/small/m32620-front.jpg"]
+        }, {
+            "productId": 2273,
+            "name": "Altris Hd Hair Hue Therapy Soft Black Ki",
+            "slug": "altris-hd-hair-hue-therapy-soft-black-ki-2273",
+            "manufacturer": "ALTRIS HD",
+            "productType": 2,
+            "mrpDecimal": "967.00",
+            "salePriceDecimal": "967.00",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 100,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true
+        }, {
+            "productId": 213784,
+            "name": "Aperlax Tablets For Relief From Constipation - 60's",
+            "slug": "aperlax-tablets-for-relief-from-constipation---60-s-213784",
+            "manufacturer": "Essentium Phygen",
+            "productType": 2,
+            "mrpDecimal": "599.00",
+            "salePriceDecimal": "539.10",
+            "discountDecimal": "59.90",
+            "discountPercent": "10",
+            "categoryId": 97,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Essentium/resized/small/a.jpg"]
+        }, {
+            "productId": 224652,
+            "name": "Aqualens Comfort Contact Lens Solution 180 Ml",
+            "slug": "aqualens-comfort-contact-lens-solution-180-ml-224652",
+            "manufacturer": "Aqualens",
+            "productType": 2,
+            "mrpDecimal": "295.00",
+            "salePriceDecimal": "265.50",
+            "discountDecimal": "29.50",
+            "discountPercent": "10",
+            "categoryId": 97,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Aqualens/resized/small/123863.png"]
+        }, {
+            "productId": 236492,
+            "name": "Boro Plus Aloe Gel - 60ml",
+            "slug": "boro-plus-aloe-gel---60ml-236492",
+            "manufacturer": "Boro Plus",
+            "productType": 2,
+            "mrpDecimal": "50.00",
+            "salePriceDecimal": "50.00",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 99,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Boro%20Plus/resized/small/f71844-front.png"]
+        }, {
+            "productId": 236487,
+            "name": "Boro Plus Aloe Gel Haldi Chandan Kesar - 150ml",
+            "slug": "boro-plus-aloe-gel-haldi-chandan-kesar---150ml-236487",
+            "manufacturer": "Boro Plus",
+            "productType": 2,
+            "mrpDecimal": "110.00",
+            "salePriceDecimal": "110.00",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 99,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Boro%20Plus/resized/small/g80381-front.png"]
+        }, {
+            "productId": 236489,
+            "name": "Boro Plus Aloe Gel Haldi Chandan Kesar - 60ml",
+            "slug": "boro-plus-aloe-gel-haldi-chandan-kesar---60ml-236489",
+            "manufacturer": "Boro Plus",
+            "productType": 2,
+            "mrpDecimal": "55.00",
+            "salePriceDecimal": "55.00",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 99,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Boro%20Plus/resized/small/g67162-front.png"]
+        }, {
+            "productId": 21950,
+            "name": "Caladryl Lotion 120ml",
+            "slug": "caladryl-lotion-120ml-21950",
+            "manufacturer": "Caladryl",
+            "productType": 2,
+            "mrpDecimal": "76.16",
+            "salePriceDecimal": "68.54",
+            "discountDecimal": "7.62",
+            "discountPercent": "10",
+            "categoryId": 99,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Caladryl/resized/small/i01344-front.jpg"]
+        }, {
+            "productId": 21951,
+            "name": "Caladryl Lotion 60ml",
+            "slug": "caladryl-lotion-60ml-21951",
+            "manufacturer": "Caladryl",
+            "productType": 2,
+            "mrpDecimal": "50.40",
+            "salePriceDecimal": "45.36",
+            "discountDecimal": "5.04",
+            "discountPercent": "10",
+            "categoryId": 99,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Caladryl/resized/small/i02133-front.jpg"]
+        }, {
+            "productId": 223261,
+            "name": "Carmesi All Natural Intimate Cleanser With Olive Leaf Extracts",
+            "slug": "carmesi-all-natural-intimate-cleanser-with-olive-leaf-extracts-223261",
+            "manufacturer": "Carmesi",
+            "productType": 2,
+            "mrpDecimal": "299.00",
+            "salePriceDecimal": "284.05",
+            "discountDecimal": "14.95",
+            "discountPercent": "5",
+            "categoryId": 101,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/CARMESI/resized/small/8904304525219-1.png"]
+        }, {
+            "productId": 40919,
+            "name": "Citro Soda Sf Sach 4gm",
+            "slug": "citro-soda-sf-sach-4gm-40919",
+            "manufacturer": "CITRO SODA",
+            "productType": 2,
+            "mrpDecimal": "18.98",
+            "salePriceDecimal": "18.98",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 195,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true
+        }, {
+            "productId": 207304,
+            "name": "Clinoct Face Wash 50ml",
+            "slug": "clinoct-face-wash-50ml-207304",
+            "manufacturer": null,
+            "productType": 2,
+            "mrpDecimal": "249.00",
+            "salePriceDecimal": "249.00",
+            "discountDecimal": null,
+            "discountPercent": "0",
+            "categoryId": 99,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true
+        }, {
+            "productId": 232746,
+            "name": "Cofsils Blister Orange 10 Lozenges - Ja",
+            "slug": "cofsils-blister-orange-10-lozenges---ja-232746",
+            "manufacturer": "Cofsils",
+            "productType": 2,
+            "mrpDecimal": "600.00",
+            "salePriceDecimal": "570.00",
+            "discountDecimal": "30.00",
+            "discountPercent": "5",
+            "categoryId": 97,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true
+        }, {
+            "productId": 192078,
+            "name": "Colgate Kids Toothbrush 0-2 Years - Extra Soft -1 Pc",
+            "slug": "colgate-kids-toothbrush-0-2-years---extra-soft--1-pc-192078",
+            "manufacturer": "Colgate",
+            "productType": 2,
+            "mrpDecimal": "30.00",
+            "salePriceDecimal": "27.00",
+            "discountDecimal": "3.00",
+            "discountPercent": "10",
+            "categoryId": 194,
+            "productTierAttributes": {
+                "type": 5,
+                "text": "Guaranteed Delivery"
+            },
+            "productSubstitutionAttributes": null,
+            "productAvailabilityFlags": {
+                "isAvailable": true,
+                "showVariantsInBottomSheet": false,
+                "notifyMe": false
+            },
+            "maxQuantity": 20,
+            "productVolume": 0,
+            "isAvailable": true,
+            "images": ["https://d1ljlatelrv1en.cloudfront.net/Colgate/resized/small/1611612-1.jpg"]
+        }],
+        "queryParams": {
+            "page": "0",
+            "perPage": 20,
+            "city": "1",
+            "subCategoryId": null,
+            "categoryId": "89",
+            "sort": null,
+            "direction": null,
+            "brandIds": [],
+            "priceBuckets": null
+        }
+    }
+}

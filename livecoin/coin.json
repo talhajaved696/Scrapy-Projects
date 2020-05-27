@@ -1,0 +1,25 @@
+[{
+        "Pair": "LTC/BTC",
+        "Volume(24h)": "18 900.02 LTC"
+    },
+    {
+        "Pair": "LTC/USD",
+        "Volume(24h)": "1 770.42 LTC"
+    },
+    {
+        "Pair": "LTC/USDT",
+        "Volume(24h)": "2.50 LTC"
+    },
+    {
+        "Pair": "DIG/LTC",
+        "Volume(24h)": "0.02 LTC"
+    },
+    {
+        "Pair": "XSN/LTC",
+        "Volume(24h)": "0.00 LTC"
+    },
+    {
+        "Pair": "RBM/LTC",
+        "Volume(24h)": "0.00 LTC"
+    }
+]
